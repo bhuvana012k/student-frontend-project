@@ -1,0 +1,74 @@
+{
+  "Employe": [
+    {
+      "name": "Kumarasamyyy",
+      "email": "kumaram@gamil.com",
+      "mobile": 8784321689,
+      "city": "Bangalore",
+      "id": 1
+    },
+    {
+      "name": "rajini",
+      "email": "raj@gamil.com",
+      "mobile": 8654321689,
+      "city": "mumbai",
+      "id": 2
+    },
+    {
+      "name": "saththi",
+      "email": "sathi@gamil.com",
+      "mobile": 8784321689,
+      "city": "chennai",
+      "id": 3
+    },
+    {
+      "name": "rasika",
+      "email": "ra@gmail.com",
+      "mobile": "2345678",
+      "city": "chennai",
+      "id": 4
+    },
+    {
+      "name": "sangavi",
+      "email": "sangavi12@gamil.com",
+      "mobile": "453211",
+      "city": "chennai",
+      "id": 6
+    },
+    {
+      "name": "suruthi",
+      "email": "suruthi@gmail.com",
+      "mobile": "54321689",
+      "city": "Bangaluru",
+      "id": 7
+    },
+    {
+      "name": "bhuvaneswari",
+      "email": "bhu@gmail.com",
+      "mobile": "98765432",
+      "city": "madurai",
+      "id": 8
+    },
+    {
+      "name": "rithika",
+      "email": "rithika2523@gmail.com",
+      "mobile": "9865432",
+      "city": "mumbai",
+      "id": 9
+    },
+    {
+      "name": "Apoorva",
+      "email": "apoorva@gmail.com",
+      "mobile": "1234567890",
+      "city": "Bengaluru",
+      "id": 10
+    },
+    {
+      "name": "sanjay",
+      "email": "sanjay2@gmail.com",
+      "mobile": "986543223",
+      "city": "chennai",
+      "id": 11
+    }
+  ]
+}
